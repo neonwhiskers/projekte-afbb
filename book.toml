@@ -1,0 +1,6 @@
+[book]
+authors = ["Melo"]
+language = "en"
+multilingual = false
+src = "src"
+title = "projekte-afbb"
